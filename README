@@ -1,6 +1,3 @@
-
----
-
 # Stock Price Prediction using Support Vector Machine (SVM)
 
 ## Overview
@@ -110,7 +107,3 @@ The model was evaluated based on accuracy, confusion matrix, and other trading m
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README template is formatted to be clear and informative for anyone looking at the repository on GitHub. You can modify the content and include additional information based on your specific implementation.
